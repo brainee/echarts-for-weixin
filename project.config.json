@@ -45,6 +45,7 @@
   "compileType": "miniprogram",
   "libVersion": "3.3.4",
   "appid": "wx7fd0357ed22ca142",
+  "miniprogramRoot": "miniprogram/",
   "projectname": "ECharts%20Demo",
   "simulatorType": "wechat",
   "simulatorPluginLibVersion": {},
@@ -56,5 +57,6 @@
   "editorSetting": {
     "tabIndent": "insertSpaces",
     "tabSize": 2
-  }
+  },
+  "srcMiniprogramRoot": "miniprogram/"
 }
